@@ -4,7 +4,7 @@ smart pointer
 - automatically delete the heap that they pointing to 
 
 ### type of smart pointer
-1. unique-ptr ptr (ptr is the owner of A)
+**1. unique-ptr ptr (ptr is the owner of A)**
 - ptr is the only pointer to A 
 - A in the heap 
 - when delete ptr, A will automatically deleted without explicit calling delete[]A
@@ -24,7 +24,7 @@ vector_ofSmartPtr.push_back(std::move(pointername)); //add pointer to vector
 
 
 
-2. shared-ptr prt(shared ownership)
+**2. shared-ptr prt(shared ownership)**
 
 ```
 shared-ptr ptr1 = B
@@ -47,7 +47,7 @@ std::shared_ptr<Type> ptr{pointername}; //share pointername with ptr
 int count = ptr.use_count(); 
 ```
 
-3. weak_ptr(circular dependency)
+**3. weak_ptr(circular dependency)**
 obj1 pointing to obj2 
 obj2 pointing to obj1
 

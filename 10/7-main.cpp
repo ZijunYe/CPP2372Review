@@ -26,8 +26,7 @@ int main()
 
     cout << "The set contains the following employees : ";
     cout << endl;
-    for (set<Employee>::iterator it2 = se.begin();
-                                        it2 != se.end(); it2++) {
+    for (set<Employee>::iterator it2 = se.begin();it2 != se.end(); it2++) {
         Employee e = *it2;
         cout << e.getFirstname() << " " << e.getName() <<  endl;
     }
@@ -52,8 +51,7 @@ int main()
     cout << endl;
     cout << "The set now contains the following employees: ";
     cout << endl;
-    for (set<Employee>::iterator it2 = se.begin();
-                                        it2 != se.end(); it2++) {
+    for (set<Employee>::iterator it2 = se.begin();it2 != se.end(); it2++) {
         Employee e = *it2;
         cout << e.getFirstname() << " " << e.getName() <<  endl;
     }

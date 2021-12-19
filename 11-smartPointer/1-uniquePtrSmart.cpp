@@ -1,4 +1,4 @@
-
+//more example: https://www.onlinegdb.com/bRd-X-q4p
 
 /*																
  
@@ -73,7 +73,7 @@ int main() {
 	
 	std::unique_ptr<A_Class> S_ptr4;
 	//ptr4 = ptr2; ERROR, NO Assign to a unique ptr
-	S_ptr4 = std::move(S_ptr2);
+	S_ptr4 = std::move(S_ptr2); //after move S_ptr2 loses it state
 
 	std::vector<std::unique_ptr<A_Class>> vector_ofsmartptr_A;
  // vector_ofsmartptr_A.push_back(S_ptr4); causes error, NO COPY in unique pointers

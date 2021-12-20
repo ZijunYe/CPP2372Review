@@ -1,15 +1,15 @@
 # CPP2372Review
 
 ## Chapter7 Exception
-[slide]()
+[slide](https://github.com/ZijunYe/CPP2372Review/blob/main/7_exceptionHandling/7-ExceptionHandling%202.pdf)
 
 ## Chapter8 Template 
 1. Template(function template & class template)
 2. conversion constructor 
 3. friend method 
-[slide]()
+[slide](https://github.com/ZijunYe/CPP2372Review/blob/main/8_Templates/8-Templates.pdf)
 
-[macro]()
+[macro](https://github.com/ZijunYe/CPP2372Review/blob/main/8_Templates/Lecture15%20Nov%208%2C%202021.pdf)
 
 ## Chapter9 Operator overloading & implicit / explicit conversion 
 [slide](https://github.com/ZijunYe/CPP2372Review/blob/main/9_OperatorOverloading/9-OperatorOverloading%20(1).pdf)

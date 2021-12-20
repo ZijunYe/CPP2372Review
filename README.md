@@ -4,8 +4,7 @@
 2. copy-constructor 
 3. copy assignment operator 
 4. destructor
-
-
+[slide](https://github.com/ZijunYe/CPP2372Review/blob/main/5_class%26Object/Classes.pdf)
 ## Chapter6 Inheritance/dynamic_casting/polymorphism
 [slide](https://github.com/ZijunYe/CPP2372Review/blob/main/6_casting%26inheritance/6OOdesign_SLIDES.pdf)
 

@@ -1,4 +1,11 @@
 # CPP2372Review
+## Chapter5 Class and Object
+1. constructor 
+2. copy-constructor 
+3. copy assignment operator 
+4. destructor
+
+
 ## Chapter6 Inheritance/dynamic_casting/polymorphism
 [slide](https://github.com/ZijunYe/CPP2372Review/blob/main/6_casting%26inheritance/6OOdesign_SLIDES.pdf)
 

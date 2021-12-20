@@ -38,3 +38,5 @@
 [move semantic](https://github.com/ZijunYe/CPP2372Review/blob/main/12_moveSematicsAndL:RValue/MoveSematics.md)
 
 [R-value and L-value](https://github.com/ZijunYe/CPP2372Review/blob/main/12_moveSematicsAndL:RValue/DeterminL-R:Lvalue.cpp)
+
+[move constructor & move assignment constructor] (https://github.com/ZijunYe/CPP2372Review/blob/main/12_moveSematicsAndL:RValue/12/Example_5_rule.cpp)

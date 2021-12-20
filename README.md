@@ -1,4 +1,6 @@
 # CPP2372Review
+## Chapter6 Inheritance/dynamic_casting/polymorphism
+[slide](https://github.com/ZijunYe/CPP2372Review/blob/main/6_casting%26inheritance/6OOdesign_SLIDES.pdf)
 
 ## Chapter7 Exception
 [slide](https://github.com/ZijunYe/CPP2372Review/blob/main/7_exceptionHandling/7-ExceptionHandling%202.pdf)
@@ -36,3 +38,6 @@
 [move semantic](https://github.com/ZijunYe/CPP2372Review/blob/main/12_moveSematicsAndL:RValue/MoveSematics.md)
 
 [R-value and L-value](https://github.com/ZijunYe/CPP2372Review/blob/main/12_moveSematicsAndL:RValue/DeterminL-R:Lvalue.cpp)
+
+[move constructor and move assignment constructor](https://github.com/ZijunYe/CPP2372Review/blob/main/12_moveSematicsAndL:RValue/12/Example_5_rule.cpp)
+

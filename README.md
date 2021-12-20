@@ -1,4 +1,7 @@
 # CPP2372Review
+## Chapter9 Operator overloading & implicit / explicit conversion 
+[slide](https://github.com/ZijunYe/CPP2372Review/blob/main/9_OperatorOverloading/9-OperatorOverloading%20(1).pdf)
+[important question](https://github.com/ZijunYe/CPP2372Review/blob/main/9_OperatorOverloading/Operator_overloading.md)
 
 ## Chapter10 Standard Container & Standard Algorithm
 [vector](https://github.com/ZijunYe/CPP2372Review/blob/main/10_TheStandardContainers%26Algorithms/vector.md)
